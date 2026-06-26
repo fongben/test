@@ -17,4 +17,5 @@ Project 5 Chapter 8: Dimensionality Reduction
 Project 6 Chapter 10: Artificial Neural Networks
 Project 7 Chapter 16: Natural Language Processing
 Link to the Project Notebooks: 
-<https://drive.google.com/file/d/1O9mfeP1f_OQp01w8L_KxszFfshN_66sY/view?usp=sharing>
+[<https://drive.google.com/file/d/1O9mfeP1f_OQp01w8L_KxszFfshN_66sY/view?usp=sharing>
+](https://drive.google.com/drive/folders/1g-I5clMTnxJzGa3AtwDuthLKIlfVEMZH?usp=sharing)
