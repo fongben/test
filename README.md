@@ -18,3 +18,5 @@ Project 6 Chapter 10: Artificial Neural Networks<br>
 Project 7 Chapter 16: Natural Language Processing<br>
 Link to the Project Notebooks: <br>
 [Link to Project on Google](https://drive.google.com/drive/folders/1g-I5clMTnxJzGa3AtwDuthLKIlfVEMZH?usp=sharing)
+
+adfdfsd
